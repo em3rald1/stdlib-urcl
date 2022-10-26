@@ -16,3 +16,4 @@ MINREGS 8 //IDC WHAT YOU SAY SHUT UP I LIKE 8 REGS lol my bad
         ret
     .error_str
         dw ["Assertion failed, terminating..." 0]
+        
